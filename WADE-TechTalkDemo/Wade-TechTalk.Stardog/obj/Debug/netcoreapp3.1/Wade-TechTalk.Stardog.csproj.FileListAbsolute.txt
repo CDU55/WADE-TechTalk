@@ -1,0 +1,8 @@
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\bin\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.deps.json
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\bin\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.dll
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\bin\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.pdb
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\obj\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\obj\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.AssemblyInfo.cs
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\obj\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\obj\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.dll
+C:\Users\claud\Desktop\Master\Anul2\Web\WADE-TechTalk\WADE-TechTalkDemo\Wade-TechTalk.Stardog\obj\Debug\netcoreapp3.1\Wade-TechTalk.Stardog.pdb

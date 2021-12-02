@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WADE-TechTalkDemo", "WADE-TechTalkDemo\WADE-TechTalkDemo.csproj", "{A31E4E69-5E66-422A-924F-2A77705DDCFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxonomyAPI", "TaxonomyAPI\TaxonomyAPI.csproj", "{806110FA-5DB5-4DB4-9A29-C5762A49A867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThesauriAPI", "ThesauriAPI\ThesauriAPI.csproj", "{DA8AD442-2C20-45F5-8700-63464A97D61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wade-TechTalk.Stardog", "Wade-TechTalk.Stardog\Wade-TechTalk.Stardog.csproj", "{787C6AD2-8FB9-4624-A1DF-FB8FCCD63B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31E4E69-5E66-422A-924F-2A77705DDCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31E4E69-5E66-422A-924F-2A77705DDCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31E4E69-5E66-422A-924F-2A77705DDCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31E4E69-5E66-422A-924F-2A77705DDCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806110FA-5DB5-4DB4-9A29-C5762A49A867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806110FA-5DB5-4DB4-9A29-C5762A49A867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806110FA-5DB5-4DB4-9A29-C5762A49A867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806110FA-5DB5-4DB4-9A29-C5762A49A867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8AD442-2C20-45F5-8700-63464A97D61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8AD442-2C20-45F5-8700-63464A97D61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8AD442-2C20-45F5-8700-63464A97D61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8AD442-2C20-45F5-8700-63464A97D61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787C6AD2-8FB9-4624-A1DF-FB8FCCD63B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787C6AD2-8FB9-4624-A1DF-FB8FCCD63B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787C6AD2-8FB9-4624-A1DF-FB8FCCD63B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787C6AD2-8FB9-4624-A1DF-FB8FCCD63B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CEC4F04-FB51-4320-A47A-1EB748EA2E7D}
+	EndGlobalSection
+EndGlobal

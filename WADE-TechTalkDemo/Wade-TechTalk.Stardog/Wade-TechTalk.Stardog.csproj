@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Wade_TechTalk.Stardog</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dotNetRDF" Version="2.7.2" />
+    <PackageReference Include="Semiodesk.Trinity" Version="1.0.3.50" />
+  </ItemGroup>
+
+</Project>

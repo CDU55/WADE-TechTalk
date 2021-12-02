@@ -1,0 +1,34 @@
+﻿@page "/"
+<MatThemeProvider Theme="@indexTheme">
+    <div class="mat-layout-grid">
+        <div class="mat-layout-grid-inner">
+            <div class="mat-layout-grid-cell mat-layout-grid-cell-span-12">
+                <MatTable Items="@items" Striped="true" class="mat-elevation-z5" UseSortHeaderRow="true">
+                    <MatTableHeader>
+                        <MatSortHeaderRow SortChanged="@SortData">
+                            <MatSortHeader Style="width: 75%" SortId="PrefLabelEng">ENG</MatSortHeader>
+                            <MatSortHeader Style="width: 75%" SortId="PrefLabelDe">DE</MatSortHeader>
+                            <MatSortHeader SortId="Resource">Resource</MatSortHeader>
+                            <MatSortHeader SortId=""></MatSortHeader>
+                        </MatSortHeaderRow>
+                    </MatTableHeader>
+                    <MatTableRow>
+                        <td>@context.PrefLabelEng</td>
+                        <td>@context.PrefLabelDe</td>
+                        <td><a href="@context.Uri" target="_blank">@context.Uri</a></td>
+                        <td><MatButton Style="text-align: center" Icon="@MatIconNames.Play_arrow" Label="Details" Class="btn btn-success" OnClick="()=>GoToDetails(context.Uri)" Raised="true"></MatButton></td>
+                    </MatTableRow>
+                </MatTable>
+            </div>
+        </div>
+    </div>
+</MatThemeProvider>
+@code
+{
+    MatTheme indexTheme = new MatTheme()
+    {
+        Primary = "#00897b",
+        Secondary = "#283593",
+    };
+
+}
